@@ -9,3 +9,4 @@
 | @Kalvinen | c2955697d963f4f3a02d754ad80d2252 | 10000 |       | | |
 | @billyvanhalen | 43eb1b88defcd96e28f0631ffc91e262	| 10000 |       | | |
 | @Michael64 | DBD90E9CC78E041BD5B561699956ED31	| 10000 | 10000 | 10000 | |
+| @Nima | 27e9577869adfd677dba9c940deece0a	|  |  | 10000 | |
